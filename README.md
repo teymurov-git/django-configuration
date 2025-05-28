@@ -1,1 +1,1 @@
-# django-configuration
+# jet-academy-final-project
