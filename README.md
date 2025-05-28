@@ -36,6 +36,7 @@
     # (python manage.py product)
     # (python manage.py blog)
 
+12. settings.py faylına tətbiqləri əlavə edirik.
 
 -------------------------------------------------------------------------------
 
@@ -77,3 +78,5 @@
 # (python manage.py account)
 # (python manage.py product)
 # (python manage.py blog)
+
+12.  Add apps to settings.py.
